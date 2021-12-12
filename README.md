@@ -9,9 +9,6 @@
 <div>
     <p>- Formado em Análise e Desenvolvimento de Sistemas - UNIP🎓</p>
     <p>- Atualmente sou Full-Stack Developer com foco em Laravel e Vue.js💻</p>
-    <p>- Já tive experiências anteriores em suporte ao usuário e infraestrutura😃</p>
-    <p>- Interesses: Design Patterns, SOLID e Clean Code✅</p>
-    <p>- Nas horas livres gosto de jogar xadrez♟️♞</p>
 </div>
 
 ## Minhas Skills
