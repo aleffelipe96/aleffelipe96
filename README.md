@@ -8,7 +8,7 @@
 ## Sobre mim
 <div>
     <p>- Formado em Análise e Desenvolvimento de Sistemas - UNIP🎓</p>
-    <p>- Atualmente sou Full-Stack Developer com foco em Laravel e Vue.js💻</p>
+    <p>- Atualmente sou Back-End Developer com foco em Laravel💻</p>
 </div>
 
 ## Minhas Skills
