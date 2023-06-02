@@ -2,13 +2,13 @@
 
 <div>
     <a href="https://github.com/aleffelipe96">
-    <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aleffelipe96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=aleffelipe96&count_private=true&show_icons=true&theme=dark&include_all_commits=true"/>
 </div>
 
 ## Sobre mim
 <div>
     <p>- Formado em Análise e Desenvolvimento de Sistemas - UNIP🎓</p>
-    <p>- Atualmente sou Back-End Developer com foco em Laravel💻</p>
+    <p>- Desenvolvedor Full Stack com foco em Laravel e Vue.js💻</p>
 </div>
 
 ## Minhas Skills
@@ -20,11 +20,13 @@
     <img alt="html5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
     <img alt="html5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
     <img alt="html5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
+    <img alt="html5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
     <img alt="html5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
     <img alt="html5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg">
     <img alt="html5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
     <img alt="html5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
     <img alt="html5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img alt="html5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
 
 ## Contato
