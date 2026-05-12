@@ -2,7 +2,8 @@
 
 <div>
     <a href="https://github.com/aleffelipe96">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=aleffelipe96&count_private=true&show_icons=true&theme=dark&include_all_commits=true"/>
+        <img height="170em" src="https://github-readme-stats-fast.vercel.app/api?username=aleffelipe96&show_icons=true&theme=react&count_private=true&include_all_commits=true"/>
+    </a>
 </div>
 
 ## Sobre mim
